@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hanzek?tab=repositories](https://github.com/Hanzek?tab=repositories)
 
-- 💬 Ask me about **Android,Java,Kotlin,Firebase**
+- 💬 Ask me about **Android, Java, Kotlin, Firebase**
 
 - 📫 How to reach me **gianbruschini98@gmail.com**
 
