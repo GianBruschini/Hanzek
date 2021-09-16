@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gianbruschini98@gmail.com**
 
-- ⚡ Fun fact **I am dedicated to the independent development of projects in Android Studio, I have done many projects, which you can find here on Github. My goal is to continue enhancing my skills as a developer in Kotlin and Java and continue enjoying this incredible world that is the development of mobile applications**
+- 👨‍🦱 About me **I am dedicated to the independent development of projects in Android Studio, I have done many projects, which you can find here on Github. My goal is to continue enhancing my skills as a developer in Kotlin and Java and continue enjoying this incredible world that is the development of mobile applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
